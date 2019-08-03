@@ -2,6 +2,8 @@
 
 Oculus has created a means to cast the Oculus Go to a mobile phone. For Oculus Go casting to work, make sure both the headset and your phone or tablet are on the same WIFI network. 
 
+Oculus Go Casting using Javascript, Three.js and WebVR
+
 Open-source method for casting the Oculus Go to any Web connected device from anywhere. Instead of streaming the Oculus Go content to a remote device, only control data is sent using AJAX. The data sent contains a control flag followed by the camera position (x, y, z) and the camera rotation (x, y, z).
 
 Casting the Oculus Go from Oculus:
